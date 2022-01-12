@@ -4,7 +4,7 @@ export default () => {
     return (
         <div>
             <hr/>
-            <MarketingApp />
+            <MarketingApp/>
         </div>
     )
 };
